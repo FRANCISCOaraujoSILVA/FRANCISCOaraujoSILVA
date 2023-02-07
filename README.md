@@ -6,13 +6,12 @@ Visite: https://dev.to/envoy_/150-badges-for-github-pnk para pegar as imagens da
 Visite para mais personalizações do readme: https://github.com/anuraghazra/github-readme-stats
 
 
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISCOaraujoSILVA&layout=compact&langs_count=16&theme=dark"/>
 -->
 
 <div>
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISCOaraujoSILVA&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ##
