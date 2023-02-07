@@ -2,10 +2,11 @@
 
 <!--
 Visite devicons para pegar os ícones das suas linguagens de programação.
-Visite dev.to para pegar as imagens das suas redes sociais ou shields.io
+Visite: https://dev.to/envoy_/150-badges-for-github-pnk para pegar as imagens das suas redes sociais
+Visite para mais personalizações do readme: https://github.com/anuraghazra/github-readme-stats
 
 
-https://dev.to/envoy_/150-badges-for-github-pnk
+
 -->
 
 <div>
