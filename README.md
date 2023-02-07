@@ -7,7 +7,7 @@ Visite para mais personalizações do readme: https://github.com/anuraghazra/git
 
 > ## Olá! Sou o Francisco Araújo ✍️
 
-> Um pouco mais sobre mim:
+> Curiosidades sobre mim:
 
 > Na graduação criei gosto pela corrida de rua, hoje posso dizer que este é meu principal <i>hobby</i>. Descobri que na corrida os pensamentos param enquanto o corpo acelera, e com isso finalizo meus compromissos. <b>Running</b>. 
 <br>
