@@ -5,7 +5,7 @@ Visite para mais personalizações do readme: https://github.com/anuraghazra/git
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISCOaraujoSILVA&layout=compact&langs_count=16&theme=dark"/>
 -->
 
-> ## Olá! Eu sou o Francisco Araújo ✍️
+> ## Olá! Sou o Francisco Araújo ✍️
 
 > Um pouco mais sobre mim:
 
