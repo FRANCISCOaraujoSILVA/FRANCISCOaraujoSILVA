@@ -31,7 +31,7 @@ Visite para mais personalizações do readme: https://github.com/anuraghazra/git
                                    
                                    
         
-![Snake animation](https://github.com/FRANCISCOaraujoSILVA/FRANCISCOaraujoSILVA/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/FRANCISCOaraujoSILVA/FRANCISCOaraujoSILVA/blob/output/github-contribution-grid-snake.svg)
           
   
   
