@@ -20,7 +20,7 @@ Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117" alt="Francisco Araújo da Silva github stats" />
 </div>
- 
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=00D704&point=9F79EE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
 #
@@ -29,8 +29,8 @@ Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00
 <div style="display: inline_block" align="center">  
   <img align="center" alt="Logo_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Logo_Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-  <img align="center" alt="Logo_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-  </div>
+  <img align="center" alt="Logo_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />         
+</div>
   
 #
   
