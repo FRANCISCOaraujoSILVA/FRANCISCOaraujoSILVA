@@ -1,11 +1,11 @@
 <!--
 Visite devicons para pegar os ícones das suas linguagens de programação: https://devicon.dev/
 
-Visite: https://dev.to/envoy_/150-badges-for-github-pnk para pegar as imagens das suas redes sociais
+Visite dev.to para pegar as imagens das suas redes sociais: https://dev.to/envoy_/150-badges-for-github-pnk
 
-Visite para mais personalizações do readme: https://github.com/anuraghazra/github-readme-stats
+Visite readme stats para mais personalizações do readme: https://github.com/anuraghazra/github-readme-stats
 
-![contribution](https://activity-graph.herokuapp.com/graph?username=FRANCISCOaraujoSILVA&theme=gotham&hide_border=true&area=true) 
+Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00710.github.io/github-readme-activity-graph/
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=130&section=header&text=README&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
@@ -20,7 +20,9 @@ Visite para mais personalizações do readme: https://github.com/anuraghazra/git
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117" alt="Francisco Araújo da Silva github stats" />
 </div>
-  
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=00D704&point=9F79EE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
+
 #
   
 > <p align="center"><b>TECNOLOGIAS<b><p>
