@@ -27,18 +27,18 @@ Quantas pessoas visitaram meu github?
 
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Francisco+Araújo!+:%29;Tenho+26+anos.;Seja+bem+vind@!)](https://git.io/typing-svg)
 
-<P align="center">Curiosidades sobre mim</P>
+> <p align="center"><b>Curiosidades sobre mim:<b></p>
 
 > Na graduação criei gosto pela corrida de rua, hoje posso dizer que este é meu principal <i>hobby</i>. Descobri que na corrida os pensamentos param enquanto o corpo acelera. <b><i>Running</i></b>. 
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=00EEEE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117" alt="Francisco Araújo da Silva github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117" alt="Francisco Araújo da Silva github stats" />
 </div>
   
 #
   
-> Tecnologias
+> <p align="center"><b>Tecnologias<b><p>
 <div style="display: inline_block" align="center">  
   <img align="center" alt="Logo_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Logo_Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
@@ -47,7 +47,7 @@ Quantas pessoas visitaram meu github?
   
 #
   
- > Redes sociais
+  > <p align="center"><b>Redes sociais<b></p>
  <div align="center">
    <a href="mailto:francisco.ads0@edu.udesc.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/francisco-ara%C3%BAjo-b37b461a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
