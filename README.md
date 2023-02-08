@@ -12,9 +12,9 @@ Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00
 
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Francisco+Araújo!+:%29;Tenho+26+anos.;Seja+bem+vind@!)](https://git.io/typing-svg)
 
-> <p align="center"><b>CURIOSIDADES SOBRE MIM<b></p>
+> <p align="center">CURIOSIDADES SOBRE MIM</p>
 
->Na graduação criei gosto pela corrida de rua, hoje posso dizer que este é meu principal <i>hobby</i>. Descobri que na corrida os pensamentos param enquanto o corpo acelera. <b><i>Running</i></b> 
+> Na graduação criei gosto pela corrida de rua, hoje posso dizer que este é meu principal *hobby*. Descobri que na corrida os pensamentos param enquanto o corpo acelera. <b>*Running*</b>. 
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
