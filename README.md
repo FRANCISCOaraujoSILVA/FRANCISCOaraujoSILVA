@@ -14,7 +14,7 @@ Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00
 
 > <p align="center">CURIOSIDADES SOBRE MIM</p>
 
-> Na graduação criei gosto pela corrida de rua, hoje posso dizer que este é meu principal *hobby*. Descobri que na corrida os pensamentos param enquanto o corpo acelera. <b>*Running*</b>. 
+> Na graduação desenvolvi gosto pela corrida de rua, hoje posso dizer que este é meu principal *hobby*. Descobri que na corrida os pensamentos param enquanto o corpo acelera. <b>*Running*</b>. 
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
