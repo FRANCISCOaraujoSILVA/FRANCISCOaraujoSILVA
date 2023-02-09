@@ -8,6 +8,9 @@ Visite readme stats para mais personalizações do readme: https://github.com/an
 Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00710.github.io/github-readme-activity-graph/
 
 Visete sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/microsoft-excel
+
+Comandos:
+hide=issues,stars,contribs,prs
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=header&text=README&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
