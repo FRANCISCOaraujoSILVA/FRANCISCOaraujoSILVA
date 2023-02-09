@@ -30,9 +30,10 @@ Visete sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/mi
 > <p align="center"><b>TECNOLOGIAS<b><p>
 <div style="display: inline_block" align="center">  
   <img align="center" alt="Logo_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Logo_Excel" height="30" width="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38716/preview.svg" />
   <img align="center" alt="Logo_Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="center" alt="Logo_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Logo_Excel" height="30" width="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38716/preview.svg" />
+
 </div>
   
 #
@@ -41,6 +42,7 @@ Visete sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/mi
  <div align="center">
    <a href="mailto:francisco.ads0@edu.udesc.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/francisco-ara%C3%BAjo-b37b461a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/francisco.araujo___?igshid=NDk5N2NlZjQ=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
   
 #
