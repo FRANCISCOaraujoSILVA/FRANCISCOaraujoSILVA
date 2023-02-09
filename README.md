@@ -12,7 +12,7 @@ Visete sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/mi
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=header&text=README&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
 
-[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Francisco+Araújo!+:%29;Tenho+26+anos.;Seja+bem+vind@!)](https://git.io/typing-svg)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Francisco+Araújo!+:%29;Seja+bem+vind@!)](https://git.io/typing-svg)
 
 > <p align="center">CURIOSIDADES SOBRE MIM</p>
 
