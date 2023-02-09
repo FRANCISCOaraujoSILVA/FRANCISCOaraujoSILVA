@@ -18,7 +18,7 @@ Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true" alt="Francisco Araújo da Silva github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=issues,stars,contribs,prs" alt="Francisco Araújo da Silva github stats" />
 </div>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=00D704&point=9F79EE&area=true&hide_border=true&hide_title=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)   
