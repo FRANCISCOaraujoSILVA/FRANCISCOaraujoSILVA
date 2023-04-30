@@ -28,7 +28,7 @@ hide=issues,stars,contribs,prs
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=contribs,issues&include_all_commits=true&count_private=true" alt="Francisco Araújo da Silva github stats" />
 </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=9A32CD&point=9F79EE&area=true&hide_border=true&hide_title=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=9A32CD&point=9F79EE&area=true&hide_border=true&hide_title=true&radius=16&contribs=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
 #
   
