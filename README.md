@@ -23,7 +23,7 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
 
 > <p align="center"><b>CURIOSIDADES SOBRE MIM</b></p>
 
-> Meu principal *hobby* é correr. 160 bpm, <b>*Running*</b>
+> Meu principal *hobby* é correr. 160 bpm, <b>*Running*</b>.
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
