@@ -13,6 +13,8 @@ Comandos:
 hide=issues,stars,contribs,prs
 
 9A32CD
+
+Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity-graph/tree/main#customization
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=header&text=ENGENHARIA+DE+PETRÓLEO&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
@@ -27,9 +29,9 @@ hide=issues,stars,contribs,prs
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=contribs,issues&include_all_commits=true&count_private=true" alt="Francisco Araújo da Silva github stats" />
 </div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=00EEEE&line=9A32CD&point=9F79EE&area=true&hide_border=true&hide_title=true&radius=16&contribs=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
+#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&theme=merko&title_color=00EEEE&custom_title=Activity&line=9F79EE&point=00FF00)](https://github.com/FRANCISCOaraujoSILVA/github-readme-activity-graph)
 #
   
 > <p align="center"><b>TECNOLOGIAS<b><p>
