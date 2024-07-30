@@ -28,7 +28,27 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
 
 > <p align="center"><b>CURIOSIDADES SOBRE MIM</b></p>
 
-> Meu principal *hobby* é correr. 160 bpm, <b>*Running*</b>.
+> Foi membro do Grupo de Petrofísica e
+Engenharia de Reservatório
+(GPER/CESFI), onde atuou como
+pesquisador de iniciação científica em
+um projeto de calibração de modelos
+geológicos vinculado à Petrobras.
+Possui experiência com versionamento
+de código utilizando o GitHub para
+colaboração em equipe. Desde 2022,
+dedica-se ao estudo de Inteligência
+Artificial (IA) com foco em redes neurais
+artificiais. Durante a aprendizagem,
+desenvolveu estudos de caso, sendo
+um deles a aplicação de rede neural
+artificial para classificação binária em
+uma base de dados de câncer do UCI -
+Machine Learning Repository.
+Detalhista e organizado. Busca
+oportunidades desafiadoras que
+proporcionem aprendizado contínuo
+.Meu principal *hobby* é correr - 160 bpm, <b>*Running*</b>.
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
