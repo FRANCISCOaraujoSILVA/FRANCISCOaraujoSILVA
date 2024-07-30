@@ -40,6 +40,7 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
   <img align="center" alt="Logo_Excel" height="30" width="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38716/preview.svg" />
   <img align="center" alt="Logo_Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="center" alt="Logo_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt="Logo_HTML" height="30" width="40" src="https://storage.googleapis.com/oilandgas.esss.co/sitewp/16964392-logo-alfasim-horizontal-negative.svg"  />
 
 </div>
   
