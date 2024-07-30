@@ -18,6 +18,8 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&theme=merko&title_color=00EEEE&custom_title=Activity&line=9F79EE&point=00FF00)](https://github.com/FRANCISCOaraujoSILVA/github-readme-activity-graph)
+
+
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=header&text=ENGENHARIA+DE+PETRÓLEO&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
