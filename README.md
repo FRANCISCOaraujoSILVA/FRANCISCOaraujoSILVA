@@ -15,6 +15,9 @@ hide=issues,stars,contribs,prs
 9A32CD
 
 Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity-graph/tree/main#customization
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&theme=merko&title_color=00EEEE&custom_title=Activity&line=9F79EE&point=00FF00)](https://github.com/FRANCISCOaraujoSILVA/github-readme-activity-graph)
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=header&text=ENGENHARIA+DE+PETRÓLEO&fontSize=30&fontColor=9A32CD&animation=twinkling&fontAlignY=35"/>
@@ -31,7 +34,7 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
 </div>
 
 #
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&theme=merko&title_color=00EEEE&custom_title=Activity&line=9F79EE&point=00FF00)](https://github.com/FRANCISCOaraujoSILVA/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Activity&title_color=00EEEE&hide_border=true&bg_color=0d1117&line=9F79EE&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
   
 > <p align="center"><b>TECNOLOGIAS<b><p>
