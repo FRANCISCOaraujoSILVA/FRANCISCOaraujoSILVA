@@ -85,14 +85,6 @@ proporcionem aprendizado contínuo
 > <p align="centre"><b>CONTADOR DE VISITAS</b></p>
   
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FRANCISCOaraujoSILVA}/count.svg"/></p>
-
-![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=FRANCISCOaraujoSILVA.FRANCISCOaraujoSILVA)
-
-
-![Contador de Visitas](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https://api.countapi.xyz/hit/FRANCISCOaraujoSILVA.FRANCISCOaraujoSILVA/visits)
-
-
-
 <br></div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=footer"/>
