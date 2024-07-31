@@ -56,8 +56,10 @@ proporcionem aprendizado contínuo
 </div>
 
 #
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Activity&title_color=00EEEE&hide_border=true&bg_color=0d1117&line=9F79EE&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
+-->
   
 > <p align="center"><b>TECNOLOGIAS<b><p>
 <div style="display: inline_block" align="center">  
