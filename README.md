@@ -47,8 +47,8 @@ uma base de dados de câncer do UCI -
 Machine Learning Repository.
 Detalhista e organizado. Busca
 oportunidades desafiadoras que
-proporcionem aprendizado contínuo
-.Meu principal *hobby* é correr - 160 bpm, <b>*Running*</b>.
+proporcionem aprendizado contínuo.
+> Meu principal *hobby* é correr - 160 bpm, <b>*Running*</b>.
 <br>
 <div align="center">
   <a href="https://github.com/FRANCISCOaraujoSILVA">
