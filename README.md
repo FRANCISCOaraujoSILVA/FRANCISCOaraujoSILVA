@@ -7,7 +7,7 @@ Visite readme stats para mais personalizações do readme: https://github.com/an
 
 Visite readme acitvity para criar seu gráfico personalizado: https://ashutosh00710.github.io/github-readme-activity-graph/
 
-Visete sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/microsoft-excel
+VisIte sockio para pegar o ícone do excel: https://www.stockio.com/free-icon/microsoft-excel
 
 Comandos:
 hide=issues,stars,contribs,prs
@@ -50,16 +50,27 @@ oportunidades desafiadoras que
 proporcionem aprendizado contínuo.
 > Meu principal *hobby* é correr - 160 bpm, <b>*Running*</b>.
 <br>
+
+
+
 <div align="center">
+
+  <!--
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=contribs,issues&include_all_commits=true&count_private=true" alt="Francisco Araújo da Silva github stats" />
+  -->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/FRANCISCOaraujoSILVA/github-readme-stats#gh-dark-mode-only)
+    
 </div>
 
-#
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Activity&title_color=00EEEE&hide_border=true&bg_color=0d1117&line=9F79EE&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
-#
--->
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&bg_color=1d1d1d&color=14ff86&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
   
 > <p align="center"><b>TECNOLOGIAS<b><p>
 <div style="display: inline_block" align="center">  
