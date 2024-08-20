@@ -59,7 +59,7 @@ proporcionem aprendizado contínuo.
   <a href="https://github.com/FRANCISCOaraujoSILVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=contribs,issues&include_all_commits=true&count_private=true" alt="Francisco Araújo da Silva github stats" />
   -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/FRANCISCOaraujoSILVA/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FRANCISCOaraujoSILVA&show_icons=true&count_private=true&hide_border=true&title_color=9F79EE&icon_color=9F79EE&text_color=00EEEE&bg_color=0d1117&hide_title=true&hide=contribs,issues&inlcude_all_commits=true&count_private=true)](https://github.com/FRANCISCOaraujoSILVA/github-readme-stats#gh-dark-mode-only)
     
 </div>
 
@@ -67,7 +67,7 @@ proporcionem aprendizado contínuo.
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&bg_color=1d1d1d&color=14ff86&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FRANCISCOaraujoSILVA&bg_color=0d1117&color=9F79EE&line=00EEEE&point=00EEEE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
