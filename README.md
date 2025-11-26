@@ -28,15 +28,12 @@ Para mais temas, visite: https://github.com/Ashutosh00710/github-readme-activity
 
 > <p align="center"><b>CURIOSIDADES SOBRE MIM</b></p>
 
-> Foi membro do Grupo de Petrofísica e
-Engenharia de Reservatório
-(GPER/CESFI), onde atuou como
-pesquisador de iniciação científica em
-um projeto de calibração de modelos
-geológicos vinculado à Petrobras.
-Possui experiência com versionamento
-de código utilizando o GitHub para
-colaboração em equipe. Desde 2022,
+> Engenheiro de Petróleo pela Universidade do Estado de Santa Catarina (UDESC) em Balneário Camboriú–SC.
+Atuei como estagiário de Engenharia no Geoenergia Lab (UDESC), pela Fundação Instituto Tecnológico de Joinville (FITEJ), também fui membro do Grupo de Petrofísica e Engenharia de Reservatórios (GPER) em um projeto de “Calibração de Modelos Geológicos com Dados de Poços” junto à Petrobras em parceria com a UDESC. Possuo experiência com versionamento de código utilizando o GitHub para colaboração em equipe. Atualmente, me dedico ao estudo de malhas corner-point e HPC. Detalhista e organizado, movido por desafios e inovação.
+
+
+<!--
+Desde 2022,
 dedica-se ao estudo de Inteligência
 Artificial (IA) com foco em redes neurais
 artificiais. Durante a aprendizagem,
@@ -48,7 +45,10 @@ Machine Learning Repository.
 Detalhista e organizado. Busca
 oportunidades desafiadoras que
 proporcionem aprendizado contínuo.
-> Meu principal *hobby* é correr - 160 bpm, <b>*Running*</b>.
+-->
+
+
+> Gosto de correr ao ar livre e jogar beach tennis.
 <br>
 
 
