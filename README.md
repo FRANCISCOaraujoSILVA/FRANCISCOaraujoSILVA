@@ -48,7 +48,7 @@ proporcionem aprendizado contínuo.
 -->
 
 
-> Gosto de correr ao ar livre e jogar beach tennis.
+> Gosto de correr ao ar livre 🏃🏽‍➡️, jogar beach tennis 🥎 e tomar café ☕.
 <br>
 
 
