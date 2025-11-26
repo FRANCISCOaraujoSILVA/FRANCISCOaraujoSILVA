@@ -92,12 +92,13 @@ proporcionem aprendizado contínuo.
  </div>
   
 #
-  
+<!--   
 <div align="center">  
-  
+ 
 > <p align="centre"><b>CONTADOR DE VISITAS</b></p>
   
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FRANCISCOaraujoSILVA}/count.svg"/></p>
 <br></div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EEEE&height=140&section=footer"/>
+-->
